@@ -1,0 +1,10 @@
+# Fkii - Structure /Script
+
+- Investigar Flatpak
+
+Debian
+Ubuntu 
+ArchLinux  
+OpenSuse 
+SlackWare
+---------------------------
